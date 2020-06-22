@@ -5,59 +5,58 @@ Project 3 of Udacity's DLND: In this project, we learn how to generate your own 
 A snippet of a 1000 word fake script that the network produced:
 ```kramer: i don't know what you think...
 
-jerry:(to kramer) hey, i don't know how you did.
+jerry: you have to do it.
 
-kramer:(to the drake) hello?
+elaine: yeah?
 
-elaine: hey.
+jerry: yeah, yeah, yeah yeah, yeah, well.
 
-jerry: i think so.
+george: well, what do i do?
 
-george:(to george) i was just trying to get a good conversation for the guy...
+george: oh, yeah.
 
-kramer: oh.
+george: well, i think you're getting a good time.
 
-jerry: oh, i was in my car, i was a little girl.
+elaine:(to george) i don't know what it is.
 
-kramer: yeah.
+elaine: i think you're going to have to be here, but you know, you can do the whole thing.
 
-jerry: yeah, well i think you should have been consulted about it.
+kramer: oh, well, i don't know how i am.
 
-elaine: well, you should do that.
+kramer:(quietly, sarcastic) oh, hi. hi lorraine.
 
-elaine: what is this?
+jerry: hi, hi.
 
-jerry: well, i just think i can have the car.
+elaine: hello, hi, mr. seinfeld.
 
-jerry:(to george) hey, i don't know what to say.
+kramer: hey, hey jerry.(to elaine) what do you think about that?
 
-george:(pause) oh, yeah.
+jerry:(smiling, he indicates his hand) oh, you know, the little time.(she smiles, he turns to george)
 
-jerry: oh, you know what? i don't know what it means... i just want to know what it is.
+elaine: what happened?
 
-jerry:(to kramer) you know, you should be careful. i mean, it's a little unusual, 
-it's a very exciting person.
+george: well, you know, i don't think so.
 
-jerry:(pause) oh, you know, i don't know...
+kramer: well, i'm sure you're not gonna do that. i'm just gonna be able to get it. i can't do it.
 
-jerry: i think i was in this position, but i'm not gonna go to the movies with her, and 
-then i have to take the bathroom.(the woman starts eating the door) i mean, i know.
+george: no no, no, no, no, no, no. i just.. i was in the sauna.
 
-kramer: oh! i think it's a fantastic mistake.
+george: well, you know, i don't think so. i don't know why.
 
-george:(on the phone) it's the merv griffin cleaning.(george leaves)
+jerry: i don't know what you think.
 
-elaine:(to jerry) so how about that guy? i have to tell you that i was just 
-gonna tell her i was willing to do that.
+george: oh, i know, i think it was a pretty interesting thing.
 
-elaine: i can't believe it.
+jerry: i know, but i don't have a lot of money.
 
-kramer: well, i'm sorry. i'm gonna do this.(to elaine) i was just curious.
+jerry: what are you doing?
 
-george: oh, i know. i don't know what to do. i was thinking, i was thinking.
+jerry: what are you doing?
 
-george:(animated to the door) oh.
+george: well, i guess, and i don't know if you can... you know i was thinking about it. i mean, you know.
 
-elaine:(pause) you know what, i have to go to a funeral?
+elaine:(on phone) hello?
 
-george: i can't believe this.
+jerry: hello.(to george) hey, i just got a good time.
+
+jerry: yeah,
