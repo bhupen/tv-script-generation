@@ -3,8 +3,7 @@ Project 3 of Udacity's DLND: In this project, we learn how to generate your own 
 
 
 A snippet of a 1000 word fake script that the network produced:
-```kramer: i don't know what you think...
-
+```
 jerry: you have to do it.
 
 elaine: yeah?
