@@ -1,8 +1,8 @@
 # Generate TV Scripts
-Project 3 of Udacity's DLND: In this project, we learn how to generate your own 'Seinfeld' TV scripts using RNNs. We use a Seinfeld dataset of scripts from 9 seasons of the show. The Neural Network you'll build will generate a new, "fake" TV script.
+In this is an example project, to generate a 'Seinfeld' TV scripts using RNNs. The RNN was trained using a dataset of Seinfeld scripts. The Neural Network then generates an original 1000 word script on it's own.
 
 
-A snippet of a 1000 word fake script that the network produced:
+An example of a snippet of a 1000 word generated script:
 ```
 jerry: you have to do it.
 
